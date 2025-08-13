@@ -12,3 +12,7 @@ Los ejercicios de fuerza consisten en trabajar los músculos mediante resistenci
 1. Calienta con movilidad articular.
 2. Realiza 3-4 series de 8-12 repeticiones por ejercicio.
 3. Descansa entre series de 60 a 90 segundos.
+
+## Consejos
+- Mantén la técnica correcta.
+- Incrementa el peso progresivamente.
