@@ -12,3 +12,7 @@ El entrenamiento funcional se enfoca en movimientos que imitan actividades cotid
 1. Realiza un calentamiento dinámico.
 2. Haz 3-5 ejercicios que involucren varios grupos musculares (sentadillas, planchas, empujes).
 3. Descansa 30-60 segundos entre ejercicios.
+
+## Consejos
+- Usa pesos moderados para priorizar la técnica.
+- Cambia los ejercicios regularmente.
