@@ -10,3 +10,6 @@
 2. Realiza la actividad (correr, nadar, bicicleta, saltar la cuerda) durante al menos 30 minutos.
 3. Finaliza con un enfriamiento y estiramientos.
 
+## Consejos
+- Mantente hidratado.
+- Escoge un ritmo sostenible.
