@@ -12,3 +12,7 @@ El yoga combina posturas físicas, respiración y meditación para mejorar la sa
 1. Practica en un lugar tranquilo.
 2. Mantén cada postura entre 30 segundos y 1 minuto.
 3. Concéntrate en la respiración profunda.
+
+## Consejos
+- Usa una esterilla cómoda.
+- Escucha a tu cuerpo y evita forzar.
